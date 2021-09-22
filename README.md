@@ -1,4 +1,4 @@
-# Random Forest for Credit Scores
+# Random Forest for Credit Worthiness
 This is a random forest implementation in Python, using the ID3 algorithm. It was used to build a credit score classification model for a final research project at Stony Brook University's, CSE 537 Artificial Intelligence. The assignment description is as follows:
 
 The task here is to build a Decision Tree Classifier for predicting credit worthiness of
