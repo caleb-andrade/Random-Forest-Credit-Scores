@@ -9,4 +9,6 @@ The Forest.py contains all the code implementation. Running the code:
     
     ./Forest.py
 
+The readme.txt file is a description of the data attributes. The crx.data.txt is the actual data. The Decision_Tree_Report.pdf explains in more detail the code as well as the results.
+
 
